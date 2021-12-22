@@ -25,6 +25,3 @@ git remote rename origin old-origin
 git remote add origin https://gitlab.com/Ai-musicard/untitled.git
 git push -u origin --all
 git push -u origin --tags
-
-
-github: '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'
